@@ -1,0 +1,1 @@
+# pinsystem-qa-automation
